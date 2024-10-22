@@ -1,0 +1,3 @@
+-I am @Gordon
+-I am still learning
+-I dont know why you would read this
