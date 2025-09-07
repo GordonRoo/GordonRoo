@@ -1,3 +1,1 @@
--I am @Gordon
--I am still learning
--I dont know why you would read this
+Hello, I am Gordon, and I like programming.
